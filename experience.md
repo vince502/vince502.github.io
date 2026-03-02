@@ -5,21 +5,29 @@ permalink: /experience/
 ---
 # Experience
 
+My work combines heavy-ion physics research, CMS trigger operations, and practical engineering for analysis workflows.
+
+## Current Focus
+
+I am interested in general LLM-based agent technology and actively use it to explore automated experiment setup, reproducible analysis pipelines, and faster iteration for physics studies.
+
 ## Career Snapshot
 
-- **Senior Software Engineer** — Platform and Reliability (2024 - Present)
-- **Software Engineer** — Product Engineering (2021 - 2024)
+- **Postdoctoral Researcher** — Korea University Institute of Basic Science (September 2025 - Present)
+- **CMS Collaboration Participant** — CERN Large Hadron Collider (2020 - Present)
 
-## Selected Projects
+## Selected Experience
 
-### Reliability and Observability Program
-- Established service-level objectives and alerting standards across critical services.
-- Reduced incident detection and triage time through improved monitoring coverage.
+### CMS Trigger Operations and Deployment
+- Led online HLT operation activities and supported deployment and maintenance of trigger software.
+- Trained and coordinated trigger on-call shifters for reliable run-time operations.
 
-### Delivery Acceleration Initiative
-- Standardized CI/CD pipelines and release checks across multiple repositories.
-- Improved deployment consistency and shortened time-to-production.
+### Heavy-Ion Trigger and Analysis Coordination
+- Served as Trigger Contact for the Heavy-Ion Physics Group, developing trigger algorithms and organizing trigger composition.
+- Contributed to quarkonia and heavy-flavor focused analysis efforts in CMS heavy-ion programs.
 
-## Writing About Experience
+### Technical and Scientific Leadership
+- Convened the Field Operations Group (L2) in CMS Trigger Study Group (September 2024 - August 2026).
+- Convened the Dilepton Physics Interest Group (L3) (September 2022 - August 2024).
 
-Long-form retrospectives are published as blog posts under the `experience` category.
+For complete details, see [Full CV]({{ '/cv/full/' | relative_url }}).
