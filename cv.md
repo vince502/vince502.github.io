@@ -5,32 +5,35 @@ permalink: /cv/
 ---
 # CV
 
-## Summary
+## Profile
 
-Software engineer with a strong focus on backend architecture, platform reliability, and operational excellence.
+Physicist and researcher focused on high-energy heavy-ion collision physics, CMS trigger operations, and machine-learning-driven analysis workflows.
 
-## Skills
+I work at the intersection of experimental particle physics, online trigger systems, and data-driven analysis tooling for large-scale collaborations.
 
-- Languages: JavaScript/TypeScript, Python, Go
-- Platforms: AWS, Docker, Kubernetes
-- Practices: System design, testing, observability
+## Current Role
 
-## Work History
+### Postdoctoral Researcher (September 2025 - Present)
+Korea University Institute of Basic Science
+- CMS high-level trigger algorithm development and online deployment.
+- Machine learning for physics analysis and heavy-flavor dynamics measurement.
 
-### Senior Software Engineer (2024 - Present)
-- Leading platform and reliability initiatives that improve service quality and delivery predictability.
-- Mentoring engineers through design reviews, technical planning, and production-readiness practices.
+## Core Competencies
 
-### Software Engineer (2021 - 2024)
-- Delivered production features spanning application services, developer tooling, and infrastructure.
+- Trigger systems and online operations for CMS.
+- Physics analysis pipelines using C++, Python, and ROOT.
+- ML-assisted analysis workflows with PyTorch and XGBoost.
+- Cross-team coordination in international research collaborations.
 
 ## Education
 
-- B.S. in Computer Science
+- Ph.D. in Physics, Korea University (awarded August 25, 2025)
+- B.S. in Physics, Korea University
 
 ## Links
 
-- [GitHub: github.com/soohwan](https://github.com/soohwan)
-- LinkedIn profile URL available in the public site header or contact section.
+- Email: [soohwan.lee@cern.ch](mailto:soohwan.lee@cern.ch)
+- INSPIRE HEP: [Author Profile](https://inspirehep.net/authors/2650738)
+- ORCID: [0000-0001-9257-9643](https://orcid.org/0000-0001-9257-9643)
 
-For a downloadable resume, add `resume.pdf` to the project root and link it on this page.
+Detailed CV: [View full CV]({{ '/cv/full/' | relative_url }})
