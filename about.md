@@ -5,6 +5,6 @@ permalink: /about/
 ---
 # About
 
-I am Soohwan, a software engineer focused on building dependable systems and maintainable developer workflows.
+I am Soohwan, a physicist and researcher working on heavy-ion collision physics, CMS trigger operations, and data-intensive analysis workflows.
 
-This blog is a working journal for my technical research, project retrospectives, and engineering opinions. The goal is straightforward: publish useful ideas with enough context to be applied in real teams and production environments.
+This blog is a working journal for technical research notes, experiment retrospectives, and practical methods for reproducible scientific analysis. I also write about LLM-based agent workflows for automating parts of experiment setup and iteration.
