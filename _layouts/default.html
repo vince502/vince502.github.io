@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 }}" />
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <nav class="nav">
+          <a href="{{ '/technical-news/' | relative_url }}">Technical News</a>
+          <a href="{{ '/ideas/' | relative_url }}">Ideas</a>
+          <a href="{{ '/experience/' | relative_url }}">Experience</a>
+          <a href="{{ '/cv/' | relative_url }}">CV</a>
+          <a href="{{ '/about/' | relative_url }}">About</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container content">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <small>
+          © {{ "now" | date: "%Y" }} {{ site.author.name }}. Built with Jekyll on GitHub Pages.
+        </small>
+      </div>
+    </footer>
+  </body>
+</html>

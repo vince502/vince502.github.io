@@ -1,0 +1,25 @@
+title: "Soohwan Tech Notes"
+description: "Technical commentary, engineering essays, and professional experience notes."
+url: "https://soohwan.github.io"
+baseurl: ""
+timezone: "Asia/Seoul"
+markdown: kramdown
+permalink: /:categories/:title/
+
+author:
+  name: "Soohwan"
+  bio: "Software engineer writing about architecture, reliability, and execution."
+
+giscus:
+  enabled: false
+  repo: "soohwan/soohwan.github.io"
+  repo_id: ""
+  category: "General"
+  category_id: ""
+  mapping: "pathname"
+  strict: "0"
+  reactions_enabled: "1"
+  emit_metadata: "0"
+  input_position: "bottom"
+  lang: "en"
+  theme: "light"
