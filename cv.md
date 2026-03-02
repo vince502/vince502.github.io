@@ -32,7 +32,7 @@ Korea University Institute of Basic Science
 
 ## Links
 
-- Email: [soohwan.lee@cern.ch](mailto:soohwan.lee@cern.ch)
+- Email: [lee.soohwan.402@gmail.com](mailto:lee.soohwan.402@gmail.com)
 - INSPIRE HEP: [Author Profile](https://inspirehep.net/authors/2650738)
 - ORCID: [0000-0001-9257-9643](https://orcid.org/0000-0001-9257-9643)
 
