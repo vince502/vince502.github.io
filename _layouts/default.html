@@ -15,9 +15,13 @@
         <nav class="nav">
           <a href="{{ '/technical-news/' | relative_url }}">Technical News</a>
           <a href="{{ '/ideas/' | relative_url }}">Ideas</a>
-          <a href="{{ '/experience/' | relative_url }}">Experience</a>
-          <a href="{{ '/cv/' | relative_url }}">CV</a>
-          <a href="{{ '/about/' | relative_url }}">About</a>
+          <div class="nav-dropdown">
+            <a class="nav-dropdown-toggle" href="{{ '/about/' | relative_url }}">About Me</a>
+            <div class="nav-dropdown-menu">
+              <a href="{{ '/experience/' | relative_url }}">Experience</a>
+              <a href="{{ '/cv/' | relative_url }}">CV</a>
+            </div>
+          </div>
         </nav>
       </div>
     </header>

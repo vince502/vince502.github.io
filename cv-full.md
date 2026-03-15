@@ -3,15 +3,15 @@ layout: default
 title: Full CV
 permalink: /cv/full/
 ---
-# Full CV
+# Curriculum Vitae
 
-Complete record of education, roles, collaborations, awards, and technical background.
+This is my past list of education, roles, collaborations, awards, and technical background.
 
 Summary profile: [Back to concise CV]({{ '/cv/' | relative_url }})
 
 ## Summary
 
-Physicist and researcher focused on high-energy heavy-ion collision physics, CMS trigger operations, and machine-learning-driven analysis workflows.
+Physicist focused on high-energy heavy-ion collision physics, CMS trigger operations, and machine-learning-driven analysis workflows.
 
 ## Skills
 

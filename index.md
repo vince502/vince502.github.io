@@ -2,15 +2,15 @@
 layout: default
 title: Home
 ---
-# Engineering Notes and Commentary
+# Welcome
 
-Welcome to my personal blog. I publish focused technical commentary, lessons from production work, and long-form essays on software engineering decisions.
+teo my personal blog. Here I post, discuss whatever interest me
 
 <div class="card">
   <h2>Editorial focus</h2>
   <ul>
-    <li><strong>Technical News:</strong> analysis of notable releases, platform updates, and ecosystem shifts.</li>
-    <li><strong>Ideas:</strong> architecture opinions, implementation proposals, and technical essays.</li>
+    <li><strong>News:</strong> New stories that I find interesting</li>
+    <li><strong>Ideas:</strong> Experiment, Technological challenge.</li>
     <li><strong>Experience:</strong> practical retrospectives on delivery, reliability, and team execution.</li>
     <li><strong>CV:</strong> a concise overview of my background, capabilities, and project impact.</li>
   </ul>

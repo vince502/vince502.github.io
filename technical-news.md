@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Technical News
+title: News
 permalink: /technical-news/
 ---
-# Technical News
+# News
 
 Concise analysis of relevant releases, standards updates, and product announcements across the software ecosystem.
 
